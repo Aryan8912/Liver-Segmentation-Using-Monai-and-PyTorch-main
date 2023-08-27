@@ -2,7 +2,6 @@
 # Liver Segmentation Using Monai and PyTorch
 You'll find all the Python files you need to accomplish liver segmentation with Monai and PyTorch in this repo, and you can use the same code to segment other organs as well.
 
-Link to the original course [here](https://www.learn.pycad.co/course/liver-segmentation).
 
 ![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/liver_segmentation.PNG)
 
@@ -92,27 +91,5 @@ And to run the code, you can use the scripts `train.py` that will call the train
 ## Testing the model
 To test the model, there is the jupyter notebook `testing.ipynb` file that contains the different codes that you need. You will find the part to plot the training/testing graphs about the loss and the dice coefficient and of course you will find the the part to show the results of one of the test data to see the output of your model.
 
-![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/graphs.PNG)
 
-----------------------------------------------------------------------------------------------------------------------------------
-Before using the code, I recommend that you watch my course, in which I explain everything in this repo, or at the very least read my blog entries, in which I explain how to use the various scripts so that you don't get confused.
-
-You can read about the tutorial in my blog post series starting by [this one.](https://pycad.co/liver-segmentation-part-1/)
-
-## Conversion tools
-
-For the different preparations that I talked about in the course/blogs I have create a simple GUI that help you to do the conversion in a few clicks, please see more information at [this link](https://pycad.co/pycad-convert/).
-
-![154864750-c55a3129-67c7-438a-8549-e2c45c433048](https://user-images.githubusercontent.com/37108394/156251291-a0911b63-41b6-4c8a-820b-a9bfec5e452b.png)
-
-## 📩 Newsletter
-Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
-
-https://pycad.co/join-us/
-
-## 🆕 NEW 
-
-Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
-
-https://www.learn.pycad.co/course/dicom-simplified
 
